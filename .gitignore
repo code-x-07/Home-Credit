@@ -1,1 +1,2 @@
-
+model/data/*.csv
+model/data/*.zip
